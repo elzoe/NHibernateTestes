@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuarios", "ConsoleApplication2\Usuarios.csproj", "{4DB18A86-2733-4DB6-9933-61E9C3DC3221}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuarios", "Usuarios\Usuarios.csproj", "{4DB18A86-2733-4DB6-9933-61E9C3DC3221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repository\Repositorio.csproj", "{50243246-22DB-420D-AC8C-831405F84468}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{50243246-22DB-420D-AC8C-831405F84468}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
