@@ -1,0 +1,12 @@
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\FluentNHibernate.dll
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\Iesi.Collections.dll
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\NHibernate.dll
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\FluentNHibernate.pdb
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\FluentNHibernate.xml
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\Iesi.Collections.xml
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\NHibernate.xml
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\Repositorio.dll
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\bin\Debug\Repositorio.pdb
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\obj\Debug\Repositorio.dll
+C:\Users\Eder\documents\visual studio 2015\Projects\ConsoleApplication2\Repository\obj\Debug\Repositorio.pdb
